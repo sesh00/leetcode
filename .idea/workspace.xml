@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89d3e8b-6416-4d85-965b-a0dae71e1a1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinkoff/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinkoff/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinkoff/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinkoff/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinkoff/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tinkoff/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +57,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveElement">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qualification.B" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="С" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tinkoff.С" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.twopointers.*" />
+          <option name="PATTERN" value="tinkoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tinkoff.B" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tinkoff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qualification.C" />
+      <option name="MAIN_CLASS_NAME" value="tinkoff.C" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.twopointers.*" />
+          <option name="PATTERN" value="tinkoff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qualification.F" />
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tinkoff.D" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.twopointers.*" />
+          <option name="PATTERN" value="tinkoff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,25 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qualification.I" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tinkoff.Test" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.twopointers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.twopointers.RemoveElement" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.twopointers.*" />
+          <option name="PATTERN" value="tinkoff.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,10 +125,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.I" />
-        <item itemvalue="Application.F" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.D" />
         <item itemvalue="Application.C" />
+        <item itemvalue="Application.С" />
         <item itemvalue="Application.B" />
       </list>
     </recent_temporary>
@@ -140,6 +145,12 @@
       <workItem from="1702910641764" duration="879000" />
       <workItem from="1702911586121" duration="3779000" />
       <workItem from="1702999238399" duration="2565000" />
+      <workItem from="1703001873349" duration="587000" />
+      <workItem from="1703426038537" duration="132000" />
+      <workItem from="1705325124113" duration="609000" />
+      <workItem from="1706595282896" duration="9704000" />
+      <workItem from="1706615542542" duration="4118000" />
+      <workItem from="1706621509583" duration="11167000" />
     </task>
     <task id="LOCAL-00001" summary="removeElement">
       <option name="closed" value="true" />
@@ -157,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703000689163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RemoveDuplicatesFromSortedArray">
+      <option name="closed" value="true" />
+      <created>1703002135515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703002135515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
